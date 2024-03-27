@@ -3,6 +3,7 @@
 
 <template>
   <h1>XY-Naval Game</h1>
+
 </template>
 
 <style scoped>
