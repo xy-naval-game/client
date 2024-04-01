@@ -1,10 +1,9 @@
-<script setup lang="ts">
-import CheckIn from "./components/CheckIn.vue";
-</script>
-
 <template>
-  <CheckIn />
+    <router-view/>
 </template>
+
+<script setup lang="ts">
+</script>
 
 <style scoped>
 </style>
